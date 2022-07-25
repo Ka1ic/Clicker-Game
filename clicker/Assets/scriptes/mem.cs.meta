@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2696f5ddbde61b04bbd52c7afcc58d5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lvl: {fileID: 11400000, guid: 172ad98529aef2d4bb69c880c3c1906c, type: 2}
+  - moneySpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
